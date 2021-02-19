@@ -16,7 +16,7 @@ Prepared by: XWS Alpha Team
 * draft Options to enable consideration for Landline and interactive voice recognition
 * monthly financial reporting  
 * Planning & preparation for additional content “highlighting tests” with external users
-
+* Testing flood terminology content through readability checker and with team crit
 
 
 ## What we’re planning for next week
@@ -30,6 +30,7 @@ Prepared by: XWS Alpha Team
 * Continuing to recruit additional external user participants
 * Research external user feedback around Flood Alerts
 * Continue sign up/subscription, and find a location design research
+* Testing flood terminology content with external users
 
 
 ## Blockers, issues or questions
